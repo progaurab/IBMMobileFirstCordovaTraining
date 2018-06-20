@@ -28,13 +28,13 @@ The Cordova platform versions supported by the MobileFirst plug-ins, are:
 Before creating new application or using existing one, we need to install related software.
 
 * [**Node.js**](https://nodejs.org/en/) - Download and install.
-* **NPM(3.10.10)** - ``npm install -g npm@3.10.10`` 
-* **Codova** - ``npm install -g cordova`` 
-* [**JDK 7 or 8 **](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  
-* **MobileFirst CLI** - ``npm install -g mfpdev-cli`` 
-* [**MobileFirst Server**](http://mobilefirstplatform.ibmcloud.com/downloads/#developer-kit) 
+* **NPM(3.10.10)** - ``npm install -g npm@3.10.10`` - Run the command in terminal.
+* **Codova** - ``npm install -g cordova`` - Run the command in terminal.
+* [**JDK 7 or 8**](http://www.oracle.com/technetwork/java/javase/downloads/index.html)- - Download and install.
+* **MobileFirst CLI** - ``npm install -g mfpdev-cli`` - Run the command in terminal.
+* [**MobileFirst Server**](http://mobilefirstplatform.ibmcloud.com/downloads/#developer-kit) - Download and install.
 * [**Gradle**](https://services.gradle.org/distributions/gradle-4.8-bin.zip) - Extract and add path in System variable
-* [**Android Studio & SDK**](https://developer.android.com/studio/) 
+* [**Android Studio & SDK**](https://developer.android.com/studio/) - - Download and install.
 
 ## New Application
 
