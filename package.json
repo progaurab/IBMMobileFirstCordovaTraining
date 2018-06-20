@@ -1,0 +1,1 @@
+{"name":"com.androidabcd.helloworld","version":"1.0.0","displayName":"HelloWorld","cordova":{"platforms":["android"]},"dependencies":{"cordova-android":"~7.0.0"}}
