@@ -68,7 +68,7 @@ Where,
 ### Step 6: Strat MobileFirst Server:
 * From a **Command-line** window, navigate to the extracted folder and execute the run.sh|cmd script to start the MobileFirst Server.
 
-* Load the MobileFirst Operations Console (username/password: admin/admin): ``http://localhost:9080/mfpconsole``
+* Load the MobileFirst Operations Console (username/password: admin/admin): [``http://localhost:9080/mfpconsole``]
 
 ### Step 7: Registering the application
 ``mfpdev app register``
